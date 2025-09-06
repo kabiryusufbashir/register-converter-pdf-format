@@ -1,0 +1,1296 @@
+    FEDERAL MEDICAL CENTRE - MAKURDI- BN/0012/P
+
+    Provider Number:                                             BN/0012/P
+    Total Enrollees:                                             1
+
+                                    NHIA - GIFSHIP_FAMILY Batch 1469308
+    S/N NHIA Number        Relationship     FirstName   LastName        Sex DOB        Emp Code
+    1   7628151-0          MEMBER           NAPHTALI    SHUNDAN         M 10/11/1994
+
+
+
+
+Page 5 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                    Page 5 of 71
+    KUBWA GENERAL HOSPITAL- FCT/0047/P
+
+    Provider Number:                                           FCT/0047/P
+    Total Enrollees:                                           3
+
+                                    NHIA - GIFSHIP_GROUP Batch 1466024
+    S/N   NHIA Number       Relationship    FirstName   LastName       Sex   DOB          Emp Code
+    1     7524952-0         MEMBER          PETER       OJIMA          M     04/07/1960
+    2     7524959-0         MEMBER          LADI        OJIMA          F     14/04/1965
+    3     7524963-0         MEMBER          PETER       MOSES          M     12/05/2009
+
+
+
+
+Page 6 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                       Page 6 of 71
+    ST. VINCENT CLINIC AND MATERNITY- FCT/0049/P
+
+    Provider Number:                                           FCT/0049/P
+    Total Enrollees:                                           1
+
+                                  NHIA - GIFSHIP_INDIVIDUAL Batch 1470863
+    S/N NHIA Number         Relationship     FirstName   LastName      Sex DOB          Emp Code
+    1   7631190-0           MEMBER           BLESSING    JIMOH         F   07/01/1999
+
+
+
+
+Page 7 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                     Page 7 of 71
+    MAITAMA DISTRICT HOSPITAL- FCT/0091/P
+
+    Provider Number:                                           FCT/0091/P
+    Total Enrollees:                                           2
+
+                                    NHIA - GIFSHIP_FAMILY Batch 1469308
+    S/N NHIA Number         Relationship     FirstName   LastName      Sex DOB          Emp Code
+    1   7628154-0           MEMBER           FAVOUR      OGWUA         F   30/01/2000
+    2   7628155-0           MEMBER           MICHAEL     ALABI         M   31/05/1984
+
+
+
+
+Page 8 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                     Page 8 of 71
+    ASOKORO DISTRICT HOSPITAL- FCT/0092/P
+
+    Provider Number:                                           FCT/0092/P
+    Total Enrollees:                                           19
+
+                                    NHIA - GIFSHIP_GROUP Batch 1466024
+    S/N   NHIA Number     Relationship   FirstName    LastName           Sex    DOB          Emp Code
+    1     7524736-0       MEMBER         UFEDOJO      JUSTICE            F      11/01/2018
+    2     7524749-0       MEMBER         UBEDOJO      JUSTICE            F      17/05/2019
+    3     7524758-0       MEMBER         JUSTICE      AMEGO              M      24/11/1978
+    4     7524764-0       MEMBER         LADI         AMEGO              F      17/01/1978
+    5     7524776-0       MEMBER         UDO          OTUIHENEME         M      10/07/1964
+    6     7524781-0       MEMBER         GLORY        OTUIHENEME         F      28/12/1970
+    7     7524786-0       MEMBER         BRIDGET      GODWINS            F      13/07/1979
+    8     7524806-0       MEMBER         GODWINS      DUKESON            M      27/08/1978
+    9     7524816-0       MEMBER         FITUMI       ISAAC              F      27/08/1987
+    10    7524927-0       MEMBER         COMFORT      DANIEL             F      04/03/1990
+    11    7524930-0       MEMBER         GOSPEL       OTOLA              M      20/01/1981
+
+                                    NHIA - GIFSHIP_FAMILY Batch 1466507
+    S/N   NHIA Number      Relationship     FirstName  LastName         Sex    DOB           Emp Code
+    1     7554691-0        MEMBER           SAMUEL     ACHIMUGU         M      01/02/1971
+    2     7554695-0        MEMBER           WINNER     GODWINS          M      28/05/2012
+    3     7554697-0        MEMBER           SUCCESS    SULE             M      13/10/1988
+    4     7554699-0        MEMBER           VINCENT    GODWINS          M      19/09/2008
+    5     7554701-0        MEMBER           GRACE      AGADA            F      24/06/1998
+    6     7554703-0        MEMBER           MICHAEL    EKPAH            M      25/06/1973
+
+                                 NHIA - GIFSHIP_INDIVIDUAL Batch 1470863
+    S/N NHIA Number        Relationship    FirstName   LastName       Sex DOB                Emp Code
+    1   7631177-0          MEMBER          TOYIN       OYINLOLA       F   03/04/1964
+    2   7631179-0          MEMBER          JOHNSON     OYINLOLA       M 14/03/1960
+
+
+
+
+Page 9 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                          Page 9 of 71
+    WUSE DISTRICT HOSPITAL- FCT/0093/P
+
+    Provider Number:                                          FCT/0093/P
+    Total Enrollees:                                          1
+
+                                    NHIA - GIFSHIP_GROUP Batch 1470948
+    S/N NHIA Number        Relationship    FirstName     LastName      Sex DOB        Emp Code
+    1   80010492-0         MEMBER          TERHEMBA      TERVER        M 18/10/1991
+
+
+
+
+Page 10 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                 Page 10 of 71
+    GENERAL HOSPITAL, NYANYA- FCT/0099/P
+
+    Provider Number:                                          FCT/0099/P
+    Total Enrollees:                                          1
+
+                                    NHIA - GIFSHIP_GROUP Batch 1470948
+    S/N NHIA Number        Relationship    FirstName      LastName     Sex DOB        Emp Code
+    1   80000873-0         MEMBER          NATHANIEL      AMINU        M 07/05/1998
+
+
+
+
+Page 11 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                 Page 11 of 71
+    BIO-ROYAL HOSPITAL AND MATERNITY LTD.- FCT/0139/P
+
+    Provider Number:                                          FCT/0139/P
+    Total Enrollees:                                          1
+
+                                    NHIA - GIFSHIP_GROUP Batch 1470948
+    S/N NHIA Number       Relationship   FirstName   LastName            Sex DOB          Emp Code
+    1   80011958-0        MEMBER         ROSE        CHRISTOPHER         F   14/08/1990
+
+
+
+
+Page 12 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                     Page 12 of 71
+    NISA PREMIER HOSPITAL- FCT/0158/P
+
+    Provider Number:                                           FCT/0158/P
+    Total Enrollees:                                           2
+
+                                  NHIA - GIFSHIP_INDIVIDUAL Batch 1460744
+    S/N NHIA Number        Relationship     FirstName    LastName       Sex DOB          Emp Code
+    1   7327760-0          MEMBER           CHIDIMMA     NJOKU          F   15/10/1984
+    2   7507358-0          MEMBER           CHISIMDI     OBIAGWU        F   27/12/2010
+
+
+
+
+Page 13 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                    Page 13 of 71
+    NATIONAL HOSPITAL ABUJA- FCT/0330/P
+
+    Provider Number:                                           FCT/0330/P
+    Total Enrollees:                                           4
+
+                                  NHIA - GIFSHIP_INDIVIDUAL Batch 1460744
+    S/N NHIA Number        Relationship    FirstName     LastName       Sex DOB          Emp Code
+    1   7507361-0          MEMBER          QUEENETH      EGWUDAH        F   04/01/1983
+
+                                    NHIA - GIFSHIP_GROUP Batch 1466024
+    S/N NHIA Number         Relationship    FirstName   LastName       Sex DOB           Emp Code
+    1   7524920-0           MEMBER          NAOMI       SAMUEL         F   19/04/1979
+    2   7524937-0           MEMBER          SAMUEL      OMALE          M   10/01/1969
+
+                                    NHIA - GIFSHIP_FAMILY Batch 1469308
+    S/N NHIA Number        Relationship    FirstName  LastName          Sex DOB          Emp Code
+    1   7628141-0          MEMBER          ABIOLA     OLORUKOBA         F   03/03/1984
+
+
+
+
+Page 14 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                    Page 14 of 71
+    ALBERT HORSFALL MED. CENTRE- FCT/0333/P
+
+    Provider Number:                                          FCT/0333/P
+    Total Enrollees:                                          15
+
+                                     NHIA - GIFSHIP_GROUP Batch 1460431
+    S/N NHIA Number      Relationship FirstName        LastName              Sex DOB          Emp Code
+    1   7326596-0        MEMBER        AMINA           ABUBAKAR              F   26/12/2004
+    2   7326851-0        MEMBER        KASIM           ABUBAKAR              M 08/03/1998
+    3   7326853-0        MEMBER        KHADIJAH        MUSA                  F   15/11/2001
+    4   7326858-0        MEMBER        ABUBAKAR        MUSA                  M 06/12/1999
+    5   7326861-0        MEMBER        HAUWA           MUSA                  F   09/09/2003
+    6   7326863-0        MEMBER        UMMULKHAIR      MUSA                  F   18/01/2007
+    7   7326864-0        MEMBER        HUSSAINA        MUHAMMAD              F   20/09/1969
+    8   7326865-0        MEMBER        MARYAM          ZAKARI                F   09/01/1979
+    9   7326866-0        MEMBER        BELLO           ABDULKAREEM           M 09/10/1989
+    10 7326867-0         MEMBER        LUCY            AYOMOBA               F   23/09/1972
+    11 7327554-0         MEMBER        NABILA          HAMZA                 F   26/07/2005
+    12 7327561-0         MEMBER        HABEEBA         AMALI                 F   04/08/2000
+    13 7327563-0         MEMBER        HABIBA          MUHAMMED              F   14/02/1953
+    14 7494657-0         MEMBER        RABIAT          AMBURSA               F   08/04/2007
+    15 7495742-0         MEMBER        MERCY           AKODU                 F   31/03/2001
+
+
+
+
+Page 15 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                        Page 15 of 71
+    ABUJA CLINIIC - KARU- FCT/0360/P
+
+    Provider Number:                                           FCT/0360/P
+    Total Enrollees:                                           1
+
+                                     NHIA - GIFSHIP_GROUP Batch 1470948
+    S/N NHIA Number         Relationship     FirstName   LastName       Sex DOB          Emp Code
+    1   80013084-0          MEMBER           COMFORT     ENAMHE         F   11/01/2002
+
+
+
+
+Page 16 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                    Page 16 of 71
+    FEDERAL STAFF HOSPITAL - JABI- FCT/0390/P
+
+    Provider Number:                                           FCT/0390/P
+    Total Enrollees:                                           6
+
+                                     NHIA - GIFSHIP_GROUP Batch 1466024
+    S/N   NHIA Number      Relationship     FirstName      LastName       Sex   DOB          Emp Code
+    1     7524977-0        MEMBER           THEOPHILUS     JAMES          M     13/06/2013
+    2     7524980-0        MEMBER           GRACE          JAMES          F     03/10/2010
+    3     7524983-0        MEMBER           GLORIA         JAMES          F     23/08/1982
+    4     7524986-0        MEMBER           JAMES          OGUCHE         M     09/03/1977
+
+                                    NHIA - GIFSHIP_FAMILY Batch 1468920
+    S/N NHIA Number         Relationship     FirstName   LastName      Sex DOB               Emp Code
+    1   7625581-0           MEMBER           MARY        DAVID         F   24/12/1981
+    2   7625587-0           MEMBER           DAVID       REUBEN        M   01/02/1977
+
+
+
+
+Page 17 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                        Page 17 of 71
+    UNIVERSITY OF ABUJA TEACHING HOSPITAL, GWAGWALADA-
+    FCT/0478/P
+
+    Provider Number:                                           FCT/0478/P
+    Total Enrollees:                                           1
+
+                                    NHIA - GIFSHIP_GROUP Batch 1459839
+    S/N NHIA Number         Relationship    FirstName   LastName       Sex DOB          Emp Code
+    1   7324269-0           MEMBER          JOHN        MUSA           M   09/12/1949
+
+
+
+
+Page 18 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                   Page 18 of 71
+    GARKI HOSPITAL - FCT/0546/P
+
+    Provider Number:                                           FCT/0546/P
+    Total Enrollees:                                           1
+
+                                     NHIA - GIFSHIP_GROUP Batch 1459839
+    S/N NHIA Number         Relationship     FirstName   LastName       Sex DOB          Emp Code
+    1   7325245-0           MEMBER           BLESSING    AUDU           F   02/06/1989
+
+
+
+
+Page 19 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                    Page 19 of 71
+    SISTERS OF NATIVITY HOSPITAL- FCT/0584/P
+
+    Provider Number:                                           FCT/0584/P
+    Total Enrollees:                                           10
+
+                                     NHIA - GIFSHIP_GROUP Batch 1459839
+    S/N   NHIA Number     Relationship   FirstName       LastName         Sex   DOB          Emp Code
+    1     7324275-0       MEMBER         IBRAHIM         SANYA            M     30/03/1950
+    2     7324276-0       MEMBER         DADA            GIKO             M     14/12/1947
+    3     7324279-0       MEMBER         HASSAN          MAIGANGA         M     14/05/1957
+    4     7324341-0       MEMBER         DNAKO           ANIYA            M     12/09/1932
+    5     7324349-0       MEMBER         SHUKAU          MAZADU           M     11/01/1978
+    6     7324354-0       MEMBER         BALA            HASSAN           M     31/05/1965
+    7     7324367-0       MEMBER         LUKA            KURE             M     14/09/1982
+    8     7324376-0       MEMBER         KURE            TUKURA           M     24/08/1986
+    9     7324380-0       MEMBER         TERKUMBUL       IGBAVENDA        F     09/10/1985
+    10    7324384-0       MEMBER         YOHANNAH        MUSA             M     03/01/1983
+
+
+
+
+Page 20 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                       Page 20 of 71
+    TOLBERT SPECIALISTS HOSPITALS LTD- FCT/0601/P
+
+    Provider Number:                                           FCT/0601/P
+    Total Enrollees:                                           2
+
+                                    NHIA - GIFSHIP_FAMILY Batch 1469308
+    S/N NHIA Number        Relationship     FirstName   LastName        Sex DOB          Emp Code
+    1   7628126-0          MEMBER           GUYANA      TONGMAN         F   27/10/1971
+    2   7628156-0          MEMBER           KEREN       SAMARI          F   15/11/1992
+
+
+
+
+Page 21 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                    Page 21 of 71
+    FEDERAL STAFF HOSPITAL-GWARINPA- FCT/0753/P
+
+    Provider Number:                                          FCT/0753/P
+    Total Enrollees:                                          1
+
+                                    NHIA - GIFSHIP_FAMILY Batch 1469308
+    S/N NHIA Number        Relationship    FirstName       LastName     Sex DOB          Emp Code
+    1   7628124-0          MEMBER          NENDIRMWA       OHAH         F   14/05/1985
+
+
+
+
+Page 22 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                    Page 22 of 71
+    QUEENS SPECIALIST HOSPITAL- FCT/0856/P
+
+    Provider Number:                                           FCT/0856/P
+    Total Enrollees:                                           1
+
+                                    NHIA - GIFSHIP_FAMILY Batch 1469308
+    S/N NHIA Number        Relationship    FirstName   LastName         Sex DOB          Emp Code
+    1   7628144-0          MEMBER          FAVOUR      OKONKWOR         F   01/04/1992
+
+
+
+
+Page 23 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                    Page 23 of 71
+    ARMY COMMAND-FCT/0900/P
+
+    Provider Number:                                           FCT/0900/P
+    Total Enrollees:                                           2
+
+                                     NHIA - GIFSHIP_GROUP Batch 1466024
+    S/N NHIA Number         Relationship     FirstName   LastName       Sex DOB          Emp Code
+    1   7524992-0           MEMBER           OLUKEMI     OLALEYE        F   03/07/1959
+    2   7524997-0           MEMBER           UMAR        USMAN          M   19/08/2006
+
+
+
+
+Page 24 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                    Page 24 of 71
+    MUHAMMADU BUHARI POLICE HOSP FCT/0955/P
+
+    Provider Number:                                           FCT/0955/P
+    Total Enrollees:                                           1
+
+                                    NHIA - GIFSHIP_FAMILY Batch 1469308
+    S/N NHIA Number         Relationship    FirstName    LastName      Sex DOB          Emp Code
+    1   7628238-0           MEMBER          COMFORT      BELLO         F   04/03/1984
+
+
+
+
+Page 25 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                   Page 25 of 71
+    GIWA HOSPITAL AND SPECIALIST CLINIC- KD/0010/P
+
+    Provider Number:                                              KD/0010/P
+    Total Enrollees:                                              16
+
+                                    NHIA - GIFSHIP_FAMILY Batch 1343708
+    S/N   NHIA Number     Relationship    FirstName        LastName       Sex    DOB          Emp Code
+    1     7012413-0       MEMBER          TAHIR            MAHMUD         M      23/11/1990
+    2     7012414-0       MEMBER          AISHA            ADAM           F      31/08/2002
+    3     7012415-0       MEMBER          ABDULAZEEZ       TAHIR          M      28/01/2022
+    4     7012416-0       MEMBER          HABIBA           TAHIR          F      01/03/2023
+
+                                  NHIA - GIFSHIP_INDIVIDUAL Batch 1454240
+    S/N NHIA Number         Relationship     FirstName   LastName      Sex DOB                Emp Code
+    1   7259744-0           MEMBER           ZAINAB      SHITTU        F   11/04/1998
+    2   7259748-0           MEMBER           AFEEZ       OLASUPO       M   06/08/1991
+
+                                     NHIA - GIFSHIP_GROUP Batch 1456349
+    S/N   NHIA Number      Relationship    FirstName       LastName       Sex    DOB          Emp Code
+    1     7297152-0        MEMBER          MARYAM          YAKUBU         F      31/03/1955
+    2     7297293-0        MEMBER          HAUWA'U         USMAN          F      03/08/1997
+    3     7297295-0        MEMBER          ABDULKADIR      ISAH           M      02/02/1949
+
+                                  NHIA - GIFSHIP_INDIVIDUAL Batch 1459753
+    S/N NHIA Number         Relationship     FirstName   LastName      Sex DOB                Emp Code
+    1   7323939-0           MEMBER           EUNICE      PATRICK       F   26/07/1958
+    2   7323942-0           MEMBER           PAUL        PATRICK       M   02/08/1985
+
+                                  NHIA - GIFSHIP_INDIVIDUAL Batch 1460585
+    S/N   NHIA Number       Relationship    FirstName    LastName      Sex      DOB           Emp Code
+    1     7327208-0         MEMBER          MUKTAR       BASHIR        M        14/07/1998
+    2     7327219-0         MEMBER          AISHA        BASHIR        F        26/06/1973
+    3     7327227-0         MEMBER          MOSHOOD      BASHIR        M        16/08/1998
+
+                                     NHIA - GIFSHIP_GROUP Batch 1470948
+    S/N NHIA Number         Relationship     FirstName  LastName        Sex DOB               Emp Code
+    1   80013152-0          MEMBER           FAISAL     RIDWAN          M   01/10/1989
+
+
+
+
+Page 26 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                         Page 26 of 71
+    2    80013164-0         MEMBER         ALIYU         HUSSAINI     M      04/04/1985
+
+
+
+
+Page 27 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                Page 27 of 71
+    ALBA CLINIC AND MEDICAL CENTRE- KD/0012/P
+
+    Provider Number:                                             KD/0012/P
+    Total Enrollees:                                             1
+
+                                    NHIA - GIFSHIP_GROUP Batch 1459673
+    S/N NHIA Number         Relationship    FirstName   LastName       Sex DOB          Emp Code
+    1   7323458-0           MEMBER          SAID        NASIR          M   01/02/1982
+
+
+
+
+Page 28 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                   Page 28 of 71
+    SEFA SPECIALIST HOSPITAL- KD/0013/P
+
+    Provider Number:                                             KD/0013/P
+    Total Enrollees:                                             3
+
+                                    NHIA - GIFSHIP_GROUP Batch 1456349
+    S/N NHIA Number        Relationship    FirstName  LastName         Sex DOB           Emp Code
+    1   7297231-0          MEMBER          SADIQ      ABUBAKAR         M 14/01/1968
+
+                                     NHIA - GIFSHIP_GROUP Batch 1459673
+    S/N NHIA Number        Relationship    FirstName   LastName         Sex DOB          Emp Code
+    1   7323517-0          MEMBER          AISHA       MUHAMMED         F   11/08/1975
+
+                                    NHIA - GIFSHIP_GROUP Batch 1460183
+    S/N NHIA Number         Relationship    FirstName   LastName       Sex DOB           Emp Code
+    1   7325709-0           MEMBER          MARIA       OJELABI        F   25/12/1993
+
+
+
+
+Page 29 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                    Page 29 of 71
+    JOWAKO HOSPITAL- KD/0016/P
+
+    Provider Number:                                             KD/0016/P
+    Total Enrollees:                                             5
+
+                                  NHIA - GIFSHIP_INDIVIDUAL Batch 1456533
+    S/N NHIA Number         Relationship     FirstName   LastName      Sex DOB            Emp Code
+    1   7298254-0           MEMBER           REBECCA     PETER         F   24/11/1991
+    2   7298269-0           MEMBER           GIFT        OLEGHE        F   13/03/1992
+
+                                  NHIA - GIFSHIP_INDIVIDUAL Batch 1458855
+    S/N   NHIA Number       Relationship    FirstName    LastName      Sex   DOB          Emp Code
+    1     7319223-0         MEMBER          RAKIYA       TOMBAI        F     14/01/1962
+    2     7319225-0         MEMBER          SAADATU      DALHATU       F     26/11/1983
+    3     7319333-0         MEMBER          SEMIRAH      ABDUL         F     30/09/1995
+
+
+
+
+Page 30 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                     Page 30 of 71
+    CHASEL HOSPITAL- KD/0018/P
+
+    Provider Number:                                             KD/0018/P
+    Total Enrollees:                                             2
+
+                                  NHIA - GIFSHIP_INDIVIDUAL Batch 1420265
+    S/N NHIA Number         Relationship     FirstName   LastName      Sex DOB          Emp Code
+    1   7132775-0           MEMBER           NUSAIBA     AHMED         F   06/10/2000
+    2   7132778-0           MEMBER           HALIMA      AHMED         F   15/11/1959
+
+
+
+
+Page 31 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                   Page 31 of 71
+    GARKUWA SPECIALIST HOSPITAL- KD/0019/P
+
+    Provider Number:                                              KD/0019/P
+    Total Enrollees:                                              28
+
+                                      Family MUSA Code - 2779256
+    S/N NHIA Number      Relationship           FirstName LastName           Sex DOB           Emp Code
+    1   2779256-22       EXTRA DEPENDENT 2      KABIR        MUSA            M 31/12/1951
+
+                                     Family MUHAMMAD Code - 2176212
+    S/N NHIA Number     Relationship            FirstName LastName             Sex DOB         Emp Code
+    1   2176212-22      EXTRA DEPENDENT 2       SARATU    MUHAMMAD             F 09/10/1952
+
+                                    NHIA - GIFSHIP_GROUP Batch 1421659
+    S/N NHIA Number         Relationship    FirstName   LastName       Sex DOB                Emp Code
+    1   80232921-0          MEMBER          IBRAHIM     JAMO           M   28/08/1953
+
+                                  NHIA - GIFSHIP_INDIVIDUAL Batch 1454106
+    S/N   NHIA Number       Relationship     FirstName   LastName      Sex    DOB             Emp Code
+    1     7257930-0         MEMBER           ZAINAB      RABIU         F      02/04/2015
+    2     7257932-0         MEMBER           HAJARA      YAHAYA        F      25/04/1984
+    3     7257935-0         MEMBER           HAFSATU     YAHAYA        F      05/11/1953
+
+                                    NHIA - GIFSHIP_GROUP Batch 1456349
+    S/N NHIA Number         Relationship    FirstName   LastName       Sex DOB                Emp Code
+    1   7297252-0           MEMBER          FATIMAH     BELLO          F   01/01/1975
+
+                                     NHIA - GIFSHIP_GROUP Batch 1458404
+    S/N NHIA Number         Relationship     FirstName   LastName       Sex DOB               Emp Code
+    1   80230845-0          MEMBER           SAADATU     SAIDU          F   20/03/1960
+    2   80230850-0          MEMBER           SAIDU       GEMU           M   12/04/1948
+
+                                     NHIA - GIFSHIP_GROUP Batch 1459673
+    S/N   NHIA Number     Relationship  FirstName      LastName              Sex DOB           Emp Code
+    1     7323473-0       MEMBER        ABDULHADI      SHUAIBU               M 29/11/1992
+    2     7323485-0       MEMBER        HALIMATU       TUKUR                 F   05/03/2001
+    3     7323575-0       MEMBER        ALIYAH         ABDULRAZAQ            F   25/01/2007
+    4     7323747-0       MEMBER        ISHAKU         BAMBALE               M 05/03/1952
+
+
+
+
+Page 32 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                         Page 32 of 71
+                                  NHIA - GIFSHIP_INDIVIDUAL Batch 1460510
+    S/N NHIA Number         Relationship     FirstName   LastName      Sex DOB                Emp Code
+    1   7326916-0           MEMBER           NAFISA      ISAH          F   19/12/2001
+
+                                  NHIA - GIFSHIP_INDIVIDUAL Batch 1460741
+    S/N   NHIA Number       Relationship     FirstName   LastName      Sex   DOB              Emp Code
+    1     7327747-0         MEMBER           YUNUSA      YAHAYA        M     19/11/2003
+    2     7496520-0         MEMBER           FATIMA      YUNUSA        F     16/03/2024
+    3     7496890-0         MEMBER           AISHA       INUWA         F     07/12/2003
+
+                                     NHIA - GIFSHIP_GROUP Batch 1461754
+    S/N NHIA Number      Relationship   FirstName      LastName              Sex DOB           Emp Code
+    1   80226658-0       MEMBER         ISHAQ          ABDULRAHEEM           M 02/04/2003
+    2   80226660-0       MEMBER         HAFSAH         ISHAQ                 F   27/03/2020
+    3   80226661-0       MEMBER         JABIR          ISHAQ                 M 28/09/1995
+    4   80226663-0       MEMBER         AISHA          ISHAQ                 F   12/01/2008
+    5   80226666-0       MEMBER         SALAMATU       ADAMU                 F   09/03/1974
+    6   80226667-0       MEMBER         MUHAMMED       ISHAQ                 M 17/04/1997
+    7   80226668-0       MEMBER         USMAN          ISHAQ                 M 17/10/2014
+    8   80226669-0       MEMBER         FAROUK         ISHAQ                 M 05/11/2016
+    9   80226671-0       MEMBER         NAJAATU        ILIYASA               F   02/12/2003
+    10 80226672-0        MEMBER         FATIMA         ISHAQ                 F   17/02/2021
+    11 80226673-0        MEMBER         FAIZA          HARUNA                F   19/03/1993
+
+
+
+
+Page 33 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                         Page 33 of 71
+    RIMI CLINICS AND MATERNITY NIG. LTD.- KD/0021/P
+
+    Provider Number:                                             KD/0021/P
+    Total Enrollees:                                             1
+
+                                     NHIA - GIFSHIP_GROUP Batch 1459673
+    S/N NHIA Number         Relationship     FirstName    LastName      Sex DOB          Emp Code
+    1   7323454-0           MEMBER           RUKAYYA      GARBA         F   18/02/1997
+
+
+
+
+Page 34 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                    Page 34 of 71
+    BARAU DIKKO TEACHING HOSPITAL, KADUNA- KD/0028/P
+
+    Provider Number:                                             KD/0028/P
+    Total Enrollees:                                             14
+
+                                    NHIA - GIFSHIP_FAMILY Batch 1419596
+    S/N   NHIA Number      Relationship    FirstName  LastName          Sex    DOB            Emp Code
+    1     7130625-0        MEMBER          ZAINAB     YAHAYA            F      14/09/1975
+    2     7130627-0        MEMBER          YUSUF      ABUNA             M      31/12/1969
+    3     7130632-0        MEMBER          BILIKISU   SADIQ             F      11/06/1975
+    4     7130645-0        MEMBER          FATIMA     MOHAMMED          F      11/01/1985
+    5     7130649-0        MEMBER          VICTORIA   IBRAHIM           F      30/08/1977
+    6     7130657-0        MEMBER          SADIYA     USMAN             F      31/12/1979
+    7     7130659-0        MEMBER          FATIMA     ISHAQ             F      24/01/1983
+    8     7130662-0        MEMBER          AISHA      MUSA              F      31/12/1977
+
+                                    NHIA - GIFSHIP_GROUP Batch 1456349
+    S/N NHIA Number       Relationship   FirstName    LastName            Sex DOB             Emp Code
+    1   7297173-0         MEMBER         TAHIR        DANBABA             M 01/04/1951
+    2   7297178-0         MEMBER         ALHASSAN     MUHAMMED            M 31/12/1951
+
+                                     NHIA - GIFSHIP_GROUP Batch 1459673
+    S/N NHIA Number      Relationship  FirstName       LastName              Sex DOB          Emp Code
+    1   7323520-0        MEMBER        MUNAUWAR        ABDURRAHMAN           M 08/11/1997
+    2   7323559-0        MEMBER        SAADATU         AHMED                 F   07/05/1987
+
+                                     NHIA - GIFSHIP_GROUP Batch 1460183
+    S/N NHIA Number        Relationship    FirstName    LastName        Sex DOB               Emp Code
+    1   7325705-0          MEMBER          FLORENCE     INALEGWU        F   06/10/1987
+    2   7325822-0          MEMBER          BETHESDA     EMMANUEL        F   18/01/2017
+
+
+
+
+Page 35 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                         Page 35 of 71
+    SHEHU KANGIWA MEDICAL CENTRE- KD/0080/P
+
+    Provider Number:                                             KD/0080/P
+    Total Enrollees:                                             36
+
+                                     NHIA - GIFSHIP_GROUP Batch 1456349
+    S/N   NHIA Number     Relationship   FirstName      LastName          Sex   DOB          Emp Code
+    1     7297105-0       MEMBER         AMINA          USMAN             F     21/12/2000
+    2     7297110-0       MEMBER         AMINU          MUHAMMAD          M     07/09/1980
+    3     7297122-0       MEMBER         FATIMA         MUHAMMAD          F     18/01/1960
+    4     7297125-0       MEMBER         UMAR           SULAIMAN          M     31/12/1965
+    5     7297139-0       MEMBER         SAUDE          IBRAHIM           F     26/02/1963
+    6     7297245-0       MEMBER         AISHA          MUHAMMAD          F     09/10/1962
+    7     7297250-0       MEMBER         HUSSAINA       ABDULLAHI         F     29/09/2003
+    8     7297258-0       MEMBER         ABUBAKAR       MOHAMMED          M     31/12/1961
+    9     7297268-0       MEMBER         BILKISU        ALAMIN            F     08/04/2004
+    10    7297283-0       MEMBER         SAMINU         USMAN             M     02/05/1968
+    11    7297298-0       MEMBER         SAADATU        IBRAHIM           F     23/04/2003
+    12    7297301-0       MEMBER         FRIDAUSI       ZUBAIRU           F     31/12/1993
+    13    7297317-0       MEMBER         IBRAHIM        USMAN             M     31/12/1954
+    14    7297323-0       MEMBER         FATIMA         AWWAL             F     04/08/1973
+    15    7297325-0       MEMBER         RABIATU        ZAKARI            F     14/03/1957
+    16    7297331-0       MEMBER         KHADIJA        LAWAL             F     31/12/1972
+    17    7297336-0       MEMBER         IBRAHIM        MUHAMMAD          M     31/12/1953
+    18    7297348-0       MEMBER         ISHAKA         BELLO             M     31/12/1959
+    19    7297367-0       MEMBER         AISHA          SULEIMAN          F     31/12/1964
+
+                                     NHIA - GIFSHIP_GROUP Batch 1459673
+    S/N   NHIA Number     Relationship   FirstName      LastName          Sex   DOB          Emp Code
+    1     7323447-0       MEMBER         AISHA          USMAN             F     01/02/1996
+    2     7323451-0       MEMBER         AISHA          ABUBAKAR          F     19/06/2024
+    3     7323489-0       MEMBER         ZAINAB         ALHASSAN          M     16/01/1982
+    4     7323549-0       MEMBER         ZAINAB         ISHAQ             F     31/12/1967
+    5     7323551-0       MEMBER         SAUDAT         ABDULLAHI         F     31/12/1969
+    6     7323552-0       MEMBER         MURTALA        SALEH             M     09/03/1976
+    7     7323555-0       MEMBER         SALE           HUSSAINI          M     31/12/1953
+
+
+
+
+Page 36 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                        Page 36 of 71
+    8    7323563-0        MEMBER        ALIYU            USMAN           M    04/04/2002
+    9    7323587-0        MEMBER        HAUWAU           ALIYU           F    24/01/1984
+    10   7323591-0        MEMBER        RUKAIYA          YARO            F    03/03/1965
+    11   7323599-0        MEMBER        MAIMUNATU        MUHAMMAD        F    31/01/1973
+    12   7323617-0        MEMBER        AISHA            IBRAHIM         F    22/03/1991
+    13   7323624-0        MEMBER        KARIMA           MUHAMMAD        F    17/11/1999
+    14   7323627-0        MEMBER        AMINA            MOHAMMED        F    13/05/1965
+    15   7323631-0        MEMBER        SAADATU          ISAH            F    01/02/1994
+    16   7323636-0        MEMBER        SALAMATU         DAHIRU          F    31/12/1983
+
+                                    NHIA - GIFSHIP_GROUP Batch 1470948
+    S/N NHIA Number         Relationship    FirstName   LastName       Sex DOB             Emp Code
+    1   80013162-0          MEMBER          JIBRIN      AMINU          M   02/04/1982
+
+
+
+
+Page 37 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                      Page 37 of 71
+    YUSUF DANTSOHO HOSPITAL- KD/0081/P
+
+    Provider Number:                                             KD/0081/P
+    Total Enrollees:                                             18
+
+                                     NHIA - GIFSHIP_GROUP Batch 1456349
+    S/N   NHIA Number     Relationship   FirstName          LastName      Sex   DOB          Emp Code
+    1     7297135-0       MEMBER         MUSA               MUSTAFA       M     19/10/1943
+    2     7297198-0       MEMBER         UMMUL-KHAIRI       ISAH          F     10/11/2000
+    3     7297200-0       MEMBER         HAUWAU             HAMISU        F     31/12/1967
+    4     7297203-0       MEMBER         HASSAN             BALA          F     31/12/1954
+    5     7297208-0       MEMBER         FATIMA             BALA          F     31/12/1991
+    6     7297235-0       MEMBER         LAWAL              SHITTU        M     26/02/1942
+    7     7297256-0       MEMBER         MARYAM             AMINU         F     05/07/1998
+
+                                     NHIA - GIFSHIP_GROUP Batch 1459673
+    S/N   NHIA Number     Relationship  FirstName        LastName         Sex DOB            Emp Code
+    1     7323491-0       MEMBER        NUSAIBA          SANI             F   18/07/2000
+    2     7323524-0       MEMBER        ADAMA            HUSSAINI         F   31/12/1966
+    3     7323529-0       MEMBER        MUHAMMAD         YAHAYA           M 14/01/1949
+    4     7323544-0       MEMBER        HASSAN           IDRIS            M 17/01/1964
+    5     7323611-0       MEMBER        ISHAKA           HASSAN           M 11/01/1959
+    6     7323646-0       MEMBER        FATIMA           ABUBAKAR         F   21/01/2002
+    7     7323658-0       MEMBER        MANSUR           ADAM             M 20/01/1987
+    8     7323661-0       MEMBER        FATIMA           IBRAHIM          F   16/11/1996
+    9     7323664-0       MEMBER        ISA              SULEIMAN         M 07/01/1965
+    10    7323667-0       MEMBER        NAUWARATU        MOHAMMAD         F   05/01/1975
+    11    7323669-0       MEMBER        MUSA             ADAM             M 04/06/1983
+
+
+
+
+Page 38 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                       Page 38 of 71
+    MANEKS HOSPITAL LTD.- KD/0082/P
+
+    Provider Number:                                             KD/0082/P
+    Total Enrollees:                                             1
+
+                                    NHIA - GIFSHIP_GROUP Batch 1458421
+    S/N NHIA Number         Relationship    FirstName   LastName       Sex DOB          Emp Code
+    1   80230968-0          MEMBER          LYNDA       HOSEA          F   26/08/1974
+
+
+
+
+Page 39 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                   Page 39 of 71
+    AMINA HOSPITAL LTD.- KD/0083/P
+
+    Provider Number:                                             KD/0083/P
+    Total Enrollees:                                             7
+
+                                    NHIA - GIFSHIP_GROUP Batch 1460183
+    S/N   NHIA Number     Relationship   FirstName       LastName        Sex   DOB          Emp Code
+    1     7325655-0       MEMBER         YEHUDAH         ODIDI           M     15/09/1996
+    2     7325660-0       MEMBER         NNEOMA          ODIDI           F     24/02/1996
+    3     7325665-0       MEMBER         GRACE           ECHE            F     13/02/2010
+    4     7325677-0       MEMBER         AWESOME         ECHE            M     08/02/2012
+    5     7325696-0       MEMBER         EBIOJO          ECHE            F     17/01/1978
+    6     7325701-0       MEMBER         ECHE            INALEGWU        M     09/10/1975
+    7     7496996-0       MEMBER         WONDERFUL       ECHE            M     20/01/2020
+
+
+
+
+Page 40 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                       Page 40 of 71
+    44 ARMED FORCES REFERENCE HOSPITAL- KD/0089/P
+
+    Provider Number:                                             KD/0089/P
+    Total Enrollees:                                             13
+
+                                  NHIA - GIFSHIP_INDIVIDUAL Batch 1420343
+    S/N   NHIA Number      Relationship    FirstName   LastName         Sex     DOB          Emp Code
+    1     7133034-0        MEMBER          SADIYA      ABUBAKAR         F       17/06/1998
+    2     7133037-0        MEMBER          AISHA       YUSUF            F       08/09/1990
+    3     7133390-0        MEMBER          AISHA       MUHAMMED         F       17/10/1999
+
+                                     NHIA - GIFSHIP_GROUP Batch 1456349
+    S/N NHIA Number        Relationship    FirstName       LastName     Sex DOB              Emp Code
+    1   7297164-0          MEMBER          HADIZA          AUWAL        F   01/08/1966
+    2   7297226-0          MEMBER          MUHAMMAD        SHUAIBU      M 11/08/2000
+
+                                     NHIA - GIFSHIP_GROUP Batch 1459673
+    S/N   NHIA Number      Relationship     FirstName   LastName          Sex   DOB          Emp Code
+    1     7323497-0        MEMBER           HABIBA      ABUBAKAR          F     12/01/1996
+    2     7323507-0        MEMBER           UMMA        RULWANU           F     17/03/1973
+    3     7323532-0        MEMBER           MAIMUNA     YAHAYA            F     31/12/1944
+    4     7323536-0        MEMBER           AHMAD       SALIHU            M     11/01/1990
+    5     7323538-0        MEMBER           FATIMA      AHMED             F     15/04/1973
+    6     7323579-0        MEMBER           AISHA       USMAN             F     15/06/1969
+
+                                  NHIA - GIFSHIP_INDIVIDUAL Batch 1459753
+    S/N NHIA Number         Relationship     FirstName   LastName      Sex DOB               Emp Code
+    1   7323948-0           MEMBER           SAMUEL      PATRICK       M   23/08/1989
+
+                                    NHIA - GIFSHIP_GROUP Batch 1470948
+    S/N NHIA Number         Relationship    FirstName   LastName       Sex DOB               Emp Code
+    1   80015977-0          MEMBER          YAKUBU      JIBRIL         M   01/01/1973
+
+
+
+
+Page 41 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                        Page 41 of 71
+    NATIONAL EYE CENTRE- KD/0157/P
+
+    Provider Number:                                             KD/0157/P
+    Total Enrollees:                                             1
+
+                                  NHIA - GIFSHIP_INDIVIDUAL Batch 1420508
+    S/N NHIA Number        Relationship    FirstName   LastName         Sex DOB        Emp Code
+    1   7133657-0          MEMBER          CHINEDU     CHINYEAKA        M 11/12/1954
+
+
+
+
+Page 42 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                  Page 42 of 71
+    ST PATRICK IBRAHIM YAKOWA MEMORIAL HOSPITAL,
+    KAFANCHAN- KD/0162/P
+
+    Provider Number:                                              KD/0162/P
+    Total Enrollees:                                              1
+
+                                     NHIA - GIFSHIP_GROUP Batch 1470948
+    S/N NHIA Number         Relationship     FirstName   LastName       Sex DOB          Emp Code
+    1   80012394-0          MEMBER           YAKUBU      DANLADI        M   05/05/1990
+
+
+
+
+Page 43 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                    Page 43 of 71
+    ST GERARD CATHOLIC HOSPITAL- KD/0200/P
+
+    Provider Number:                                             KD/0200/P
+    Total Enrollees:                                             6
+
+                                  NHIA - GIFSHIP_INDIVIDUAL Batch 1459685
+    S/N NHIA Number         Relationship     FirstName   LastName      Sex DOB          Emp Code
+    1   7323613-0           MEMBER           MARTIN      SIDI          M   07/09/1955
+    2   7323625-0           MEMBER           PAULINA     SIDI          F   28/06/1959
+
+                                    NHIA - GIFSHIP_GROUP Batch 1470948
+    S/N NHIA Number         Relationship    FirstName   LastName       Sex DOB          Emp Code
+    1   80013081-0          MEMBER          KEVIN       MADU           M   04/11/1986
+    2   80013230-0          MEMBER          STEPHEN     DAUDA          M   22/04/1984
+
+                                     NHIA - GIFSHIP_GROUP Batch 1456349
+    S/N NHIA Number        Relationship     FirstName  LastName         Sex DOB         Emp Code
+    1   367719822-0        MEMBER           YUSHA'U    ILIYA            M 26/07/1985
+    2   77719820-0         MEMBER           ILIYA      ABDULLAHI        M 04/05/1952
+
+
+
+
+Page 44 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                   Page 44 of 71
+    A B U TEACHING HOSPITAL, SHIKA- KD/0223/P
+
+    Provider Number:                                             KD/0223/P
+    Total Enrollees:                                             3
+
+                                  NHIA - GIFSHIP_INDIVIDUAL Batch 1419231
+    S/N   NHIA Number      Relationship    FirstName      LastName      Sex   DOB          Emp Code
+    1     7129126-0        MEMBER          SILIFAT        BELLO         F     22/02/1962
+    2     7129129-0        MEMBER          ZAINAB         ZAILANI       F     31/12/1990
+    3     7129131-0        MEMBER          MAIMUNATU      SHEHU         F     31/12/1983
+
+
+
+
+Page 45 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                      Page 45 of 71
+    BIBA HOSPITAL- KD/0226/P
+
+    Provider Number:                                             KD/0226/P
+    Total Enrollees:                                             20
+
+                                     NHIA - GIFSHIP_GROUP Batch 1456349
+    S/N   NHIA Number      Relationship    FirstName     LastName         Sex   DOB          Emp Code
+    1     7297115-0        MEMBER          SA'ADATU      SHUAIBU          F     31/12/1988
+    2     7297127-0        MEMBER          MUSTAPHA      USMAN            M     24/07/2018
+    3     7297238-0        MEMBER          MUSA          YUSUF            M     31/12/1962
+    4     7297275-0        MEMBER          HANNATU       UMAR             F     31/12/1955
+    5     7297288-0        MEMBER          BALKISU       SULEIMAN         F     09/06/1986
+    6     7297350-0        MEMBER          MUNTARI       ISAH             M     01/01/1960
+
+                                    NHIA - GIFSHIP_GROUP Batch 1459673
+    S/N NHIA Number      Relationship  FirstName       LastName            Sex DOB           Emp Code
+    1   7323475-0        MEMBER        BILKISU         ABDULMALIK          F   07/03/1990
+    2   7323479-0        MEMBER        RAMATU          USMAN               M 14/05/1996
+    3   7323481-0        MEMBER        RAKIYA          BADISHA             F   24/11/1974
+    4   7323486-0        MEMBER        MARYAM          MUHAMMAD            F   18/12/1990
+    5   7323495-0        MEMBER        MAIMUNATU       SA'ADU              F   07/08/1997
+    6   7323501-0        MEMBER        SANI            ALIYU               M 07/03/1961
+    7   7323581-0        MEMBER        MOHAMMED        NASIR               M 31/01/1980
+    8   7323594-0        MEMBER        UMAR            USMAN               M 04/04/2003
+    9   7323595-0        MEMBER        MARIYA          ISHAQ               F   15/03/1998
+    10 7323604-0         MEMBER        FATIMA          AHMAD               F   24/09/1973
+    11 7323647-0         MEMBER        BILKISU         ABBA                F   19/11/1997
+    12 7323651-0         MEMBER        ZAINAB          IBRAHIM             F   18/01/1991
+    13 7323654-0         MEMBER        HAJARA          ABDULLAHI           F   31/12/1987
+
+                                  NHIA - GIFSHIP_INDIVIDUAL Batch 1460510
+    S/N NHIA Number       Relationship    FirstName     LastName         Sex DOB             Emp Code
+    1   7326960-0         MEMBER          UMMAHANI      ABDULLAHI        F   18/03/2007
+
+
+
+
+Page 46 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                        Page 46 of 71
+    HOREB SPECIALIST HOSPITAL - KD/0239/P
+
+    Provider Number:                                             KD/0239/P
+    Total Enrollees:                                             1
+
+                                  NHIA - GIFSHIP_INDIVIDUAL Batch 1456533
+    S/N NHIA Number         Relationship     FirstName   LastName      Sex DOB          Emp Code
+    1   7298281-0           MEMBER           LEON        OLEGHE        M   08/11/2022
+
+
+
+
+Page 47 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                   Page 47 of 71
+    HARMONY HOSPITAL- KD/0333/P
+
+    Provider Number:                                             KD/0333/P
+    Total Enrollees:                                             12
+
+                                  NHIA - GIFSHIP_INDIVIDUAL Batch 1420508
+    S/N NHIA Number        Relationship    FirstName   LastName         Sex DOB              Emp Code
+    1   7133656-0          MEMBER          ONYEKA      CHINYEAKA        M 31/03/1994
+    2   7133658-0          MEMBER          VIRGINIA    CHINYEAKA        F   30/11/1962
+
+                                  NHIA - GIFSHIP_INDIVIDUAL Batch 1420686
+    S/N NHIA Number      Relationship   FirstName      LastName           Sex DOB             Emp Code
+    1   7134409-0        MEMBER         FRANCES        OGBOMO-OSIFO       F   24/05/1957
+    2   7134411-0        MEMBER         EMMANUEL       OGBOMO-OSIFO       M 24/08/1948
+    3   7134416-0        MEMBER         ESEOSA         OGBOMO-OSIFO       M 18/06/1990
+
+                                    NHIA - GIFSHIP_GROUP Batch 1458421
+    S/N NHIA Number         Relationship    FirstName   LastName       Sex DOB               Emp Code
+    1   80230961-0          MEMBER          GRACE       TITUS          F   12/12/1981
+
+                                  NHIA - GIFSHIP_INDIVIDUAL Batch 1463500
+    S/N   NHIA Number     Relationship    FirstName      LastName         Sex   DOB          Emp Code
+    1     7507334-0       MEMBER          FAUSTINA       NZEDIEGWU        F     08/06/1987
+    2     7507337-0       MEMBER          EMMANUEL       OCHOUDO          M     23/11/2020
+    3     7507338-0       MEMBER          KING-DAVID     OCHOUDO          M     21/06/2022
+
+                                     NHIA - GIFSHIP_GROUP Batch 1470948
+    S/N   NHIA Number      Relationship    FirstName       LastName       Sex   DOB          Emp Code
+    1     80004405-0       MEMBER          EVANGELINE      GENESIS        F     12/09/1980
+    2     80013243-0       MEMBER          NGBEDE          ADIKWU         M     26/12/1985
+    3     80013253-0       MEMBER          ALIYU           SHEHU          M     19/11/1994
+
+
+
+
+Page 48 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                        Page 48 of 71
+    DIALOGUE SEPCIALIST CLINICS LTD.- KD/0346/P
+
+    Provider Number:                                             KD/0346/P
+    Total Enrollees:                                             2
+
+                                  NHIA - GIFSHIP_INDIVIDUAL Batch 1420265
+    S/N NHIA Number        Relationship    FirstName   LastName         Sex DOB          Emp Code
+    1   7132771-0          MEMBER          SALISU      MUHAMMED         M 03/10/1985
+
+                                  NHIA - GIFSHIP_INDIVIDUAL Batch 1454240
+    S/N NHIA Number        Relationship    FirstName   LastName         Sex DOB          Emp Code
+    1   7259747-0          MEMBER          MUINAT      ADERIBIGBE       F   15/06/1969
+
+
+
+
+Page 49 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                    Page 49 of 71
+    AL-MADINAT SPECIALIST HOSPITAL KAWO KADUNA- KD/0354/P
+
+    Provider Number:                                             KD/0354/P
+    Total Enrollees:                                             3
+
+                                  NHIA - GIFSHIP_INDIVIDUAL Batch 1464902
+    S/N   NHIA Number       Relationship     FirstName   LastName      Sex   DOB          Emp Code
+    1     7513190-0         MEMBER           RAHIMA      IBRAHIM       F     09/12/1980
+    2     7513193-0         MEMBER           FATIMA      ALIYU         F     31/12/1995
+    3     7513194-0         MEMBER           BUHARI      LAWAL         M     14/10/1990
+
+
+
+
+Page 50 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                     Page 50 of 71
+    GARDEN CITY SPECIALIST HOSPITAL- KD/0380/P
+
+    Provider Number:                                             KD/0380/P
+    Total Enrollees:                                             5
+
+                                    NHIA - GIFSHIP_GROUP Batch 1456349
+    S/N   NHIA Number     Relationship   FirstName    LastName           Sex   DOB          Emp Code
+    1     7297262-0       MEMBER         RUKAIYA      MOHAMMED           F     13/01/1973
+    2     7297304-0       MEMBER         RABIU        MUHAMMAD           M     18/03/1980
+    3     7297308-0       MEMBER         ZALIHATU     DAHIRU             F     03/03/1968
+    4     7297311-0       MEMBER         SUMAYYA      ADAM               F     09/07/1994
+
+                                    NHIA - GIFSHIP_FAMILY Batch 1456538
+    S/N NHIA Number         Relationship     FirstName   LastName      Sex DOB              Emp Code
+    1   7298305-0           MEMBER           AISHA       BUKAR         F   09/02/1975
+
+
+
+
+Page 51 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                       Page 51 of 71
+    AL- MUNIFF HOSPITAL- KD/0386/P
+
+    Provider Number:                                             KD/0386/P
+    Total Enrollees:                                             3
+
+                                  NHIA - GIFSHIP_INDIVIDUAL Batch 1464236
+    S/N   NHIA Number      Relationship   FirstName      LastName        Sex   DOB          Emp Code
+    1     7510134-0        MEMBER         MUSTAPHA       ABUBAKAR        M     09/06/2016
+    2     7510137-0        MEMBER         ABUBAKAR       HASSAN          M     17/03/1982
+    3     7510141-0        MEMBER         AISHA          ABUBAKAR        F     17/02/2013
+
+
+
+
+Page 52 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                       Page 52 of 71
+    SULTAN HOSPITAL NIG LTD- KD/0389/P
+
+    Provider Number:                                              KD/0389/P
+    Total Enrollees:                                              1
+
+                                     NHIA - GIFSHIP_GROUP Batch 1456349
+    S/N NHIA Number         Relationship     FirstName   LastName       Sex DOB          Emp Code
+    1   7297146-0           MEMBER           SAADATU     IBRAHIM        F   31/12/1939
+
+
+
+
+Page 53 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                    Page 53 of 71
+    NATIONAL EAR CARE CENTER- KD/0397/P
+
+    Provider Number:                                             KD/0397/P
+    Total Enrollees:                                             1
+
+                                  NHIA - GIFSHIP_INDIVIDUAL Batch 1460510
+    S/N NHIA Number        Relationship    FirstName       LastName     Sex DOB        Emp Code
+    1   7326908-0          MEMBER          ABDULMAJID      HAMISU       M 19/12/2021
+
+
+
+
+Page 54 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                  Page 54 of 71
+    FRONTIERS CONSULTANTS CLINICS- KD/0407/P
+
+    Provider Number:                                             KD/0407/P
+    Total Enrollees:                                             7
+
+                                     NHIA - GIFSHIP_GROUP Batch 1421659
+    S/N NHIA Number        Relationship    FirstName    LastName        Sex DOB          Emp Code
+    1   80232917-0         MEMBER          HUSSAINA     ABUBAKAR        F   14/05/1989
+
+                                    NHIA - GIFSHIP_FAMILY Batch 1456538
+    S/N NHIA Number         Relationship     FirstName   LastName      Sex DOB           Emp Code
+    1   7298303-0           MEMBER           MARYAM      LAWAL         F   16/07/2004
+    2   7298317-0           MEMBER           RABIATU     HARUNA        F   01/07/1985
+
+                                  NHIA - GIFSHIP_INDIVIDUAL Batch 1460165
+    S/N NHIA Number      Relationship   FirstName            LastName Sex DOB             Emp Code
+    1   7325604-0        MEMBER         ABUBAKAR SADIQ       MUSA         M 08/07/2023
+    2   7325608-0        MEMBER         MUSA                 ALIYU        M 09/05/1996
+    3   7325613-0        MEMBER         ZAINAB               SAHABI       F 23/12/2000
+
+                                    NHIA - GIFSHIP_GROUP Batch 1460183
+    S/N NHIA Number         Relationship    FirstName   LastName       Sex DOB           Emp Code
+    1   7500295-0           MEMBER          FATIMA      JIBRIN         F   04/02/1975
+
+
+
+
+Page 55 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                    Page 55 of 71
+    AT-TATBIQ ISLAM MEDICAL CENTRE- KD/0414/P
+
+    Provider Number:                                             KD/0414/P
+    Total Enrollees:                                             7
+
+                                    NHIA - GIFSHIP_GROUP Batch 1456349
+    S/N   NHIA Number     Relationship   FirstName     LastName          Sex   DOB          Emp Code
+    1     7297170-0       MEMBER         HALIMATU      MUHAMMED          F     10/03/1950
+    2     7297193-0       MEMBER         HARUNA        MAHMUD            M     31/12/1969
+    3     7297211-0       MEMBER         AMINA         ISA               F     01/04/1975
+    4     7297213-0       MEMBER         HAUWAWU       GARBA             F     30/09/1955
+    5     7297221-0       MEMBER         HABIBA        ISMAIL            F     08/05/1965
+    6     7297242-0       MEMBER         NASIRU        HASSAN            M     10/11/1976
+    7     7297280-0       MEMBER         AMINA         SALISU            F     31/12/1964
+
+
+
+
+Page 56 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                       Page 56 of 71
+    SALEM MEDICAL CENTRE- KD/0418/P
+
+    Provider Number:                                             KD/0418/P
+    Total Enrollees:                                             1
+
+                                  NHIA - GIFSHIP_INDIVIDUAL Batch 1459685
+    S/N NHIA Number        Relationship     FirstName     LastName      Sex DOB          Emp Code
+    1   7323632-0          MEMBER           ALISABATU     DAUDA         F   31/08/1959
+
+
+
+
+Page 57 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                    Page 57 of 71
+    ZAKARI SPECIALIST CLINIC - KD/0420/P
+
+    Provider Number:                                             KD/0420/P
+    Total Enrollees:                                             3
+
+                                    NHIA - GIFSHIP_GROUP Batch 1421659
+    S/N NHIA Number        Relationship    FirstName  LastName         Sex DOB          Emp Code
+    1   80232898-0         MEMBER          YUSRA      ABUBAKAR         F   29/01/1986
+
+                                    NHIA - GIFSHIP_GROUP Batch 1456349
+    S/N NHIA Number         Relationship    FirstName   LastName       Sex DOB          Emp Code
+    1   7297359-0           MEMBER          SAMIRA      ALI            F   06/08/1995
+    2   7297361-0           MEMBER          KHALID      MUSLIM         M   05/07/2022
+
+
+
+
+Page 58 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                   Page 58 of 71
+    GRACELAND HAGWOP HOSPITAL- KD/0426/P
+
+    Provider Number:                                             KD/0426/P
+    Total Enrollees:                                             33
+
+                                  NHIA - GIFSHIP_INDIVIDUAL Batch 1454273
+    S/N   NHIA Number      Relationship     FirstName     LastName      Sex    DOB            Emp Code
+    1     7259870-0        MEMBER           MARY          AGBU          F      06/01/1960
+    2     7259876-0        MEMBER           ANNA          OMALE         F      18/09/1995
+    3     7259882-0        MEMBER           NWUNUKHE      SAMUEL        M      04/06/1988
+
+                                    NHIA - GIFSHIP_GROUP Batch 1458421
+    S/N NHIA Number         Relationship    FirstName   LastName       Sex DOB                Emp Code
+    1   80230949-0          MEMBER          DANIEL      LIBERTY        M   21/07/2000
+
+                                     NHIA - GIFSHIP_GROUP Batch 1470948
+    S/N NHIA Number      Relationship   FirstName       LastName             Sex DOB           Emp Code
+    1   80000914-0       MEMBER         JACQUELINE      ADEBIJA              F   27/08/1971
+    2   80001130-0       MEMBER         DIDAM           LAAH                 M 23/02/1984
+    3   80001131-0       MEMBER         BALA            ANGO                 M 07/07/1975
+    4   80008378-0       MEMBER         VICTOR          ABDULLAHI            M 01/05/1998
+    5   80011682-0       MEMBER         HARUNA          HASSAN               M 23/10/1979
+    6   80011973-0       MEMBER         WISDOM          AGULANNA             M 29/09/1998
+    7   80013043-0       MEMBER         MARIA           STEPHEN-ALU          F   30/01/1993
+    8   80013051-0       MEMBER         CHINWENELU      ODIMGBE              F   08/11/2002
+    9   80013061-0       MEMBER         ANDEMAMRA       DANIEL               M 01/01/1990
+    10 80013083-0        MEMBER         LOIS            DANBALA              F   07/07/2001
+    11 80013102-0        MEMBER         JESSY           BENJAMIN             M 12/09/1985
+    12 80013145-0        MEMBER         MOYUWA          DANIEL               M 12/08/1998
+    13 80013153-0        MEMBER         CHRISTIE        BAGAIYA              F   24/11/1958
+    14 80013166-0        MEMBER         GEDION          MARKUS               M 29/10/2000
+    15 80013244-0        MEMBER         BEGE            DAUDA                M 21/02/1986
+    16 80013245-0        MEMBER         JOB             DANIEL               M 11/04/1986
+    17 80015474-0        MEMBER         MANI            AHMADU               M 03/07/1954
+    18 80015476-0        MEMBER         TINA            MADAKI               F   20/02/1983
+    19 80015477-0        MEMBER         DOMINIC         AYUBA                M 11/10/2002
+    20 80015503-0        MEMBER         MATHEW          MADAKI               M 24/12/1972
+
+
+
+
+Page 59 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                         Page 59 of 71
+    21   80015504-0      MEMBER        AMEN             JOHN                 F   22/09/1994
+    22   80015505-0      MEMBER        BALA             GATA                 M   26/12/1960
+    23   80015644-0      MEMBER        DORCAS           BAGAIYA              F   13/06/1992
+    24   80016040-0      MEMBER        JOHN             DAMULAK              M   24/11/1989
+    25   80016042-0      MEMBER        DENNIS           GOWON                M   15/03/1963
+    26   80016342-0      MEMBER        SOLOMON          BALA                 M   30/04/1984
+    27   80016368-0      MEMBER        BILKISU          ABUBAKAR             F   10/05/1999
+    28   80016465-0      MEMBER        DOGARA           DAUDA                M   20/12/1990
+    29   80016469-0      MEMBER        KAZACHAT         ANTHONY              M   12/02/1992
+
+
+
+
+Page 60 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                    Page 60 of 71
+    KINKINAU SPECIALIST HOSPITAL- KD/0439/P
+
+    Provider Number:                                             KD/0439/P
+    Total Enrollees:                                             1
+
+                                    NHIA - GIFSHIP_GROUP Batch 1456349
+    S/N NHIA Number        Relationship    FirstName     LastName      Sex DOB          Emp Code
+    1   7297271-0          MEMBER          SALAMATU      MUSA          F   19/01/1965
+
+
+
+
+Page 61 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                   Page 61 of 71
+    AMAL HOSPITAL AND MATERNITY- KD/0440/P
+
+    Provider Number:                                             KD/0440/P
+    Total Enrollees:                                             6
+
+                                     NHIA - GIFSHIP_GROUP Batch 1456349
+    S/N NHIA Number        Relationship     FirstName  LastName         Sex DOB           Emp Code
+    1   7297321-0          MEMBER           AISHA      ABDULLAHI        F   04/02/1961
+
+                                    NHIA - GIFSHIP_GROUP Batch 1459673
+    S/N   NHIA Number      Relationship    FirstName  LastName         Sex   DOB          Emp Code
+    1     7323505-0        MEMBER          HASSANA    MUSA             F     13/12/1966
+    2     7323513-0        MEMBER          HALIMA     ILIYASU          F     05/04/1984
+    3     7323589-0        MEMBER          AISHATU    ILIYASU          F     21/09/1974
+    4     7323640-0        MEMBER          HALIMA     AHMAD            F     06/02/2009
+    5     7323643-0        MEMBER          RABIATU    ABUBAKAR         F     31/12/1972
+
+
+
+
+Page 62 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                     Page 62 of 71
+    ASHMED SPECIALIST HOSPITAL LTD- KD/0446/P
+
+    Provider Number:                                             KD/0446/P
+    Total Enrollees:                                             6
+
+                                    NHIA - GIFSHIP_GROUP Batch 1421357
+    S/N NHIA Number      Relationship  FirstName       LastName              Sex DOB        Emp Code
+    1   80231898-0       MEMBER        AL-AMIN         ABDULRAZAK            M 17/02/2017
+    2   80231901-0       MEMBER        MUBARAK         SAMINU                M 07/09/2002
+    3   80231902-0       MEMBER        MUHAMMAD        ABDULRAZAK            M 18/03/2019
+    4   80231904-0       MEMBER        ALIYU           ABDULRAZAK            M 24/11/2018
+    5   80231905-0       MEMBER        UMAR            ABDULRAZAK            M 16/08/2022
+
+                                     NHIA - GIFSHIP_GROUP Batch 1458404
+    S/N NHIA Number       Relationship  FirstName        LastName         Sex DOB           Emp Code
+    1   80230849-0        MEMBER        ABDULMALIK       MOHAMMED         M 31/01/1952
+
+
+
+
+Page 63 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                      Page 63 of 71
+    AGAPE MEDICAL CARE SPECIALIST HOSPITAL-KD/0698/P
+
+    Provider Number:                                             KD/0698/P
+    Total Enrollees:                                             4
+
+                                    NHIA - GIFSHIP_GROUP Batch 1456349
+    S/N NHIA Number         Relationship    FirstName   LastName       Sex DOB            Emp Code
+    1   7297264-0           MEMBER          AISHA       AMINU          F   08/07/1975
+
+                                  NHIA - GIFSHIP_INDIVIDUAL Batch 1459186
+    S/N   NHIA Number       Relationship     FirstName   LastName      Sex   DOB          Emp Code
+    1     7321262-0         MEMBER           MARY        MBAKA         F     19/05/1950
+    2     7321264-0         MEMBER           GRACE       JAMES         F     09/06/2005
+    3     7321267-0         MEMBER           MICAH       JOSHUA        M     11/05/1985
+
+
+
+
+Page 64 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                     Page 64 of 71
+    ROTMOS SAVANNA HOSPITAL & MATERNITY-KD/0763/P
+
+    Provider Number:                                             KD/0763/P
+    Total Enrollees:                                             1
+
+                                    NHIA - GIFSHIP_GROUP Batch 1458421
+    S/N NHIA Number         Relationship    FirstName   LastName       Sex DOB          Emp Code
+    1   80230969-0          MEMBER          LUCY        ABEL           F   29/09/1983
+
+
+
+
+Page 65 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                   Page 65 of 71
+    349 NIGERIAN AIRFORCE HOSPITAL, KANO- KN/0074/P
+
+    Provider Number:                                             KN/0074/P
+    Total Enrollees:                                             1
+
+                                    NHIA - GIFSHIP_FAMILY Batch 1456538
+    S/N NHIA Number         Relationship     FirstName   LastName      Sex DOB          Emp Code
+    1   7298311-0           MEMBER           HAUWA       BASIRU        F   30/03/1960
+
+
+
+
+Page 66 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                   Page 66 of 71
+    AMINU KANO TEACHING HOSPITAL- KN/0082/P
+
+    Provider Number:                                             KN/0082/P
+    Total Enrollees:                                             1
+
+                                    NHIA - GIFSHIP_FAMILY Batch 1456538
+    S/N NHIA Number         Relationship     FirstName   LastName      Sex DOB          Emp Code
+    1   7298320-0           MEMBER           IBRAHIM     SALEH         M   26/07/1973
+
+
+
+
+Page 67 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                   Page 67 of 71
+    TOPTEE MEDICAL CENTRE-LA/2171/P
+
+    Provider Number:                                             LA/2171/P
+    Total Enrollees:                                             1
+
+                                    NHIA - GIFSHIP_FAMILY Batch 1469308
+    S/N NHIA Number       Relationship   FirstName      LastName          Sex DOB          Emp Code
+    1   7628142-0         MEMBER         PERPETUAL      OGEDENGBE         F   17/06/1991
+
+
+
+
+Page 68 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                      Page 68 of 71
+    EL- HUSSAIN SPECIALIST HOSPITAL LTD-NG/0596/P
+
+    Provider Number:                                              NG/0596/P
+    Total Enrollees:                                              2
+
+                                     NHIA - GIFSHIP_GROUP Batch 1461754
+    S/N NHIA Number         Relationship     FirstName   LastName       Sex DOB          Emp Code
+    1   80226674-0          MEMBER           ISHAQ       YUSUF          F   18/01/1974
+    2   80226680-0          MEMBER           MARYAM      ISHAQ          F   01/03/2003
+
+
+
+
+Page 69 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                    Page 69 of 71
+    MAY DAY SPECIALIST HOSPITAL AND MATERNITY- NW/0001/P
+
+    Provider Number:                                            NW/0001/P
+    Total Enrollees:                                            2
+
+                                    NHIA - GIFSHIP_FAMILY Batch 1468920
+    S/N NHIA Number         Relationship    FirstName    LastName       Sex DOB          Emp Code
+    1   7625589-0           MEMBER          PRISCILLA    ABEL           F   05/09/1981
+    2   7625590-0           MEMBER          SUNDAY       ABEL           M   26/08/1976
+
+
+
+
+Page 70 of 71 - INFINITE X2 HEALTH MAINTENANCE SERVICES HCP List Generated                    Page 70 of 71
+    FEDERAL MEDICAL CENTRE, KEFFI- NW/0003/P
+
+     Provider Number:                                                               NW/0003/P
+     Total Enrollees:                                                               1
+
+                                     NHIA - GIFSHIP_GROUP Batch 1470948
+     S/N NHIA Number         Relationship    FirstName   LastName       Sex DOB                      Emp Code
+     1   80000838-0          MEMBER          SALIFU      USMAN          M   05/03/1989
+
+
+                                                  © 2024 NHIA. All rights reserved.
+                                     P.O.W. 297 Shehu Yar’adua Way, Utako District, Abuja. Nigeria
+
+
+
+
+Page 71 of 71 - INFINITE X2 HEALTH
+                                                 INFINITE X2 HEALTH
+MAINTENANCE SERVICES HCP List                                                                             Page 71 of 71
+                                                MAINTENANCE SERVICES
+Generated
+
