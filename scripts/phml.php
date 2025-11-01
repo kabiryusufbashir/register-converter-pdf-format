@@ -12,8 +12,8 @@
         <div class="text-center">
             <?php
 
-                $inputFile = "../registers/phml_extracted_sept.pdf";
-                $outputFile = "../outputs/phml_extracted_sept_2025.csv";
+                $inputFile = "../registers/phml_full.pdf";
+                $outputFile = "../outputs/phml_extracted_nov_2025.csv";
                 $binaryPath = 'C:/poppler/Library/bin/pdftotext.exe';
 
                 // Extract text using pdftotext -layout
@@ -24,16 +24,17 @@
                     die("Failed to extract text from PDF.\n");
                 }
 
-                // Save debug for inspection
+                // Save debug output (for verification)
                 file_put_contents("debug_output.txt", $text);
 
                 // Split into lines
                 $lines = preg_split('/\r\n|\n|\r/', $text);
 
+                // === Helper to normalize names ===
                 function normalizeName(string $name): string {
                     $name = preg_replace("/'+/", "'", $name);                  // collapse multiple apostrophes
-                    $name = preg_replace("/[^\p{L}'\- ]+/u", "", $name);       // keep only valid chars
-                    return ucwords(strtolower(trim($name)));                   // title case
+                    $name = preg_replace("/[^\p{L}'\- ]+/u", "", $name);       // keep only letters, apostrophes, and hyphens
+                    return ucwords(strtolower(trim($name)));                   // convert to Title Case
                 }
 
                 $providerNumber = null;
@@ -41,9 +42,10 @@
                 $familyCode = '';
                 $collecting = false;
 
+                // Open CSV output file
                 $outHandle = fopen($outputFile, 'w');
 
-                // Write rearranged header
+                // Write header
                 fputcsv($outHandle, [
                     'Category',
                     'Enrollee Type',
@@ -81,26 +83,26 @@
                         continue;
                     }
 
-                    // Skip page footers
+                    // Skip page footer lines
                     if (preg_match('/^Page\s+\d+/i', $line)) {
                         continue;
                     }
 
                     if (!$collecting) continue;
 
-                    // Enrollee row detection
+                    // === Enrollee Row Detection ===
                     if (preg_match(
-                        '/^\s*(\d+)\s+([\d-]+)\s+(.*?)\s+([MF])\s+(\d{2}\/\d{2}\/\d{4})(?:\s+(\d+))?/i',
+                        '/^\s*(\d+)\s+([\d-]*)\s+(.*?)\s+([MF])\s+((?:\d{2}\/\d{2}\/\d{4})|N\/A)?(?:\s+(\d+))?/i',
                         $line,
                         $m
                     )) {
-                        $nhia   = $m[2];
-                        $middle = trim($m[3]); // relationship + names
+                        $nhia   = isset($m[2]) && trim($m[2]) !== '' ? $m[2] : 'N/A';
+                        $middle = trim($m[3]); // Relationship + names
                         $sex    = $m[4];
-                        $dob    = $m[5];
+                        $dob    = isset($m[5]) && $m[5] !== '' ? $m[5] : 'N/A';
                         $emp    = $m[6] ?? '';
 
-                        // --- Improved split logic ---
+                        // --- Split relationship and names ---
                         $relationship = '';
                         $first_name   = '';
                         $last_name    = '';
@@ -130,21 +132,21 @@
                         // Static fields
                         $category = 'MAIN';
                         $hmo = 'Police Health Maintenance Limited';
-                        $hmo_accronym = 'PHML';
+                        $hmo_acronym = 'PHML';
 
-                        // Rearranged row
+                        // Rearrange and write data
                         $rearrangedData = [
                             $category,
                             strtoupper(trim($relationship)),  // Enrollee Type
                             $providerNumber ?? '',            // Primary HCP
-                            $nhia,                            // NHIA No
+                            $nhia,                            // NHIA No (now supports N/A)
                             normalizeName($first_name),       // First Name
                             normalizeName($last_name),        // Surname
                             strtoupper(trim($relationship)),  // Dependant Type
                             $sex,
                             $dob,
                             $hmo,
-                            $hmo_accronym
+                            $hmo_acronym
                         ];
 
                         fputcsv($outHandle, $rearrangedData);
@@ -154,7 +156,8 @@
                 fclose($outHandle);
 
                 echo "<div class='my-2 text-xl'>";
-                echo "PHML Register has been converted <br> Click <a class='underline' href='../output/$outputFile'>Here</a> to download the file.";
+                echo "✅ PHML Register has been converted successfully.<br>";
+                echo "📄 Click <a class='underline' href='../output/$outputFile'>Here</a> to download the file.";
                 echo "</div>";
                 echo "<br><br> <a class='text-2xl' href='../index.php'>Return Home Page</a>";
             ?>
